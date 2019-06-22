@@ -1,0 +1,7 @@
+.code-editor {
+  height: 300px;
+
+  & /deep/ .editorContainer {
+    height: 300px;
+  }
+}
